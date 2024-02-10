@@ -8,7 +8,7 @@
 
 ![IMG-20240210-WA0016](https://github.com/Manisha12332/SignupForm/assets/127284979/e4323406-b545-4dc8-8610-4bf852942989)
 
-###video previe of project 
+###video preview of project 
 
 
 https://github.com/Manisha12332/SignupForm/assets/127284979/28299eb9-ef09-43a5-81c5-0f610ea96089
